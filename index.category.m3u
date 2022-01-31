@@ -9,8 +9,6 @@ categories/Business.m3u
 categories/classic.m3u
 #EXTINF:-1,Comedy
 categories/comedy.m3u
-#EXTINF:-1,Cooking
-categories/Cooking.m3u
 #EXTINF:-1,Culture
 categories/culture.m3u
 #EXTINF:-1,Documentary
@@ -57,3 +55,5 @@ categories/travel.m3u
 categories/weather.m3u
 #EXTINF:-1,Other
 categories/other.m3u
+#EXTINF:-1,adult
+categories/adult.m3u
